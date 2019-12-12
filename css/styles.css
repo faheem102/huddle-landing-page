@@ -27,7 +27,7 @@ p {
   font-size: 1rem;
 }
 i {
-  padding-left: 0.5rem;
+  padding-left: 1rem;
 }
 
 
@@ -44,7 +44,7 @@ i {
 
 .social-icons {
   position: absolute;
-  bottom: 10px;
+  margin-bottom: 50px;
   right: 200px;
 }
 .testbutton {
